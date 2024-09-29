@@ -1,5 +1,10 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,node,go,zsh,sonar,java,maven,intellij+all,terraform,linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,node,go,zsh,sonar,java,maven,intellij+all,terraform,linux
+# Created by https://www.toptal.com/developers/gitignore/api/python,node,go,zsh,sonar,java,maven,intellij+all,terraform,linux,yarn,astro
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,node,go,zsh,sonar,java,maven,intellij+all,terraform,linux,yarn,astro
+
+### Astro ###
+# Gitignore template for Astro projects
+# Ignore content collection generated files
+.astro
 
 ### Go ###
 # If you prefer the allow list template instead of the deny list, see community template:
@@ -518,6 +523,23 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+### yarn ###
+# https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+
+.yarn/*
+!.yarn/releases
+!.yarn/patches
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# if you are NOT using Zero-installs, then:
+# comment the following lines
+!.yarn/cache
+
+# and uncomment the following lines
+# .pnp.*
+
 ### Zsh ###
 # Zsh compiled script + zrecompile backup
 *.zwc
@@ -553,12 +575,11 @@ zsdoc/data
 /tests/_output/*
 !/tests/_output/.gitkeep
 
-# End of https://www.toptal.com/developers/gitignore/api/python,node,go,zsh,sonar,java,maven,intellij+all,terraform,linux
+# End of https://www.toptal.com/developers/gitignore/api/python,node,go,zsh,sonar,java,maven,intellij+all,terraform,linux,yarn,astro
 # custom git ignore files
 bin
 .scannerwork
 .secrets
-public
 TMP_CHANGELOG.md
 .task
 .terraform.lock.hcl
