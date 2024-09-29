@@ -1,6 +1,6 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Examples BaseTemplate -->
+<!-- Parent: Siru -->
+<!-- Title: Examples Siru -->
 <!-- Label: Examples -->
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->

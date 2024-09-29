@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Commands BaseTemplate -->
-<!-- Label: BaseTemplate -->
+<!-- Parent: Siru -->
+<!-- Title: Commands Siru -->
+<!-- Label: Siru -->
 <!-- Label: Project -->
 <!-- Label: Commands -->
 <!-- Include: disclaimer.md -->

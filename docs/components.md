@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Components BaseTemplate -->
-<!-- Label: BaseTemplate -->
+<!-- Parent: Siru -->
+<!-- Title: Components Siru -->
+<!-- Label: Siru -->
 <!-- Label: Project -->
 <!-- Label: Components -->
 <!-- Include: disclaimer.md -->

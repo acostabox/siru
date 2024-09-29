@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://github.com/hadenlabs/base-template",
+  "baseUrl": "https://github.com/acostabox/siru",
   "ignorePatterns": [
     {
       "pattern": "^https://hadenlabs.com"
