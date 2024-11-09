@@ -54,6 +54,7 @@ vars:
     *.lock.hcl
     *.lock
     *.zip
+    .DS_Store
     .external_modules
     vendor
 
