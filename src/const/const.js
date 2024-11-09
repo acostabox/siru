@@ -1,198 +1,313 @@
 export const fights = [
   {
     opponent: "Carlos Roberto Carrizo",
-    date: "12 de abril de 2002",
-    result: "Empate por decisión (PTS)"
+    date: "2002-04-12",
+    result: "Empate PTS"
   },
   {
-    opponent: "Alejandro Demetrio González",
-    date: "29 de noviembre de 2002",
-    result: "Victoria por KO (3)"
+    opponent: "Juan Albano Pereyra",
+    date: "2002-08-30",
+    result: "Victoria UD"
   },
   {
-    opponent: "Fernando Javier Gutiérrez",
-    date: "21 de marzo de 2003",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Marcelo Fabian Borda",
+    date: "2002-11-22",
+    result: "Empate PTS"
   },
   {
-    opponent: "Carlos Andrés Monzón",
-    date: "14 de noviembre de 2003",
-    result: "Victoria por KO (5)"
+    opponent: "Roberto Raul Ibarrola",
+    date: "2002-12-20",
+    result: "Victoria KO"
   },
   {
-    opponent: "David Fernando Morán",
-    date: "10 de julio de 2004",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Juan Manuel Perez",
+    date: "2003-01-24",
+    result: "Victoria UD"
   },
   {
-    opponent: "Sergio Alberto Martínez",
-    date: "16 de abril de 2005",
-    result: "Derrota por decisión unánime (PTS)"
+    opponent: "Daniel Carriqueo",
+    date: "2003-07-12",
+    result: "Victoria UD"
   },
   {
-    opponent: "Marcos René Maidana",
-    date: "12 de noviembre de 2005",
-    result: "Derrota por KO (6)"
+    opponent: "Walter Oscar Zerpa",
+    date: "2003-08-23",
+    result: "Victoria SD"
   },
   {
-    opponent: "Rubén Darío Rojas",
-    date: "3 de marzo de 2007",
-    result: "Victoria por KO (4)"
+    opponent: "Claudio Anibal Olivera",
+    date: "2004-01-17",
+    result: "Victoria UD"
   },
   {
-    opponent: "Ariel Eduardo Becerra",
-    date: "10 de noviembre de 2007",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Jose Luis Loyola",
+    date: "2004-02-20",
+    result: "Victoria UD"
   },
   {
-    opponent: "Rogelio Omar Rojas",
-    date: "21 de marzo de 2008",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Ramon Arturo Britez",
+    date: "2004-07-09",
+    result: "Victoria SD"
   },
   {
-    opponent: "Jorge Luis Rodríguez",
-    date: "18 de julio de 2009",
-    result: "Victoria por KO (2)"
+    opponent: "Jorge Ariel Garcia",
+    date: "2004-10-08",
+    result: "Victoria UD"
   },
   {
-    opponent: "Hugo Pineda",
-    date: "29 de noviembre de 2009",
-    result: "Derrota por decisión unánime (PTS)"
+    opponent: "Nestor Fabian Casanova",
+    date: "2005-02-27",
+    result: "Victoria UD"
   },
   {
-    opponent: "Adrián Elías Fernández",
-    date: "25 de febrero de 2010",
-    result: "Victoria por KO (3)"
+    opponent: "Mariano Natalio Carrera",
+    date: "2005-05-20",
+    result: "Derrota UD"
   },
   {
-    opponent: "Matías Ariel López",
-    date: "14 de agosto de 2010",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Ramon Patricio Vargas",
+    date: "2006-01-27",
+    result: "Victoria UD"
   },
   {
-    opponent: "Marcelo Ariel Rodríguez",
-    date: "30 de enero de 2011",
-    result: "Victoria por KO (2)"
+    opponent: "Pablo Daniel Nievas",
+    date: "2006-07-24",
+    result: "Empate PTS"
   },
   {
-    opponent: "Ezequiel Marcelo López",
-    date: "29 de octubre de 2011",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Nestor Fabian Casanova",
+    date: "2006-08-19",
+    result: "Victoria UD"
   },
   {
-    opponent: "Diego Armando Ramos",
-    date: "25 de febrero de 2012",
-    result: "Victoria por KO (4)"
+    opponent: "Anthony Mundine",
+    date: "2006-11-15",
+    result: "Derrota KO"
   },
   {
-    opponent: "Juan Carlos Abarca",
-    date: "1 de diciembre de 2012",
-    result: "Victoria por KO (5)"
+    opponent: "Lucas Damian Molina",
+    date: "2007-01-13",
+    result: "Victoria UD"
   },
   {
-    opponent: "Walter Adrián Sequeira",
-    date: "5 de diciembre de 2013",
-    result: "Victoria por KO (2)"
+    opponent: "Luis Daniel Parada",
+    date: "2007-01-27",
+    result: "Victoria TKO"
   },
   {
-    opponent: "Julián Andrés Ospina",
-    date: "12 de abril de 2014",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Jose Alberto Clavero",
+    date: "2007-02-23",
+    result: "Empate PTS"
   },
   {
-    opponent: "Miguel Angel Cotto",
-    date: "12 de octubre de 2014",
-    result: "Derrota por KO (6)"
+    opponent: "Francisco Antonio Mora",
+    date: "2007-04-21",
+    result: "Victoria UD"
   },
   {
-    opponent: "Elías José Cabrera",
-    date: "10 de agosto de 2015",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Jose Emilio Mazurier",
+    date: "2007-07-14",
+    result: "Victoria KO"
   },
   {
-    opponent: "Emilio Enrique Nascimento",
-    date: "3 de octubre de 2015",
-    result: "Victoria por KO (4)"
+    opponent: "Karoly Balzsay",
+    date: "2007-11-24",
+    result: "Derrota UD"
   },
   {
-    opponent: 'Fabián "Cobra" Duran',
-    date: "25 de marzo de 2016",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Alejandro Oscar Correa",
+    date: "2007-12-21",
+    result: "Victoria KO"
   },
   {
-    opponent: "José Fernando Castillo",
-    date: "11 de junio de 2016",
-    result: "Victoria por KO (5)"
+    opponent: "Julio Cesar Vasquez",
+    date: "2008-02-02",
+    result: "Victoria KO"
   },
   {
-    opponent: "Eduardo Javier Orozco",
-    date: "15 de octubre de 2016",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Lucas Damian Molina",
+    date: "2008-06-06",
+    result: "Victoria UD"
   },
   {
-    opponent: 'Nicolás "Pibe" Galarza',
-    date: "12 de noviembre de 2016",
-    result: "Victoria por KO (3)"
+    opponent: "Nestor Fabian Casanova",
+    date: "2008-11-29",
+    result: "Victoria TKO"
   },
   {
-    opponent: "Daniel Eduardo Pacheco",
-    date: "15 de julio de 2017",
-    result: "Victoria por KO (7)"
+    opponent: "Eduardo Cardoso",
+    date: "2009-01-23",
+    result: "Victoria RTD"
   },
   {
-    opponent: 'Patricio "Pato" Pérez',
-    date: "30 de septiembre de 2017",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Gustavo Javier Kapusi",
+    date: "2009-04-25",
+    result: "Victoria UD"
   },
   {
-    opponent: 'Rafael "La Hiena" Barrios',
-    date: "10 de diciembre de 2017",
-    result: "Derrota por decisión unánime (PTS)"
+    opponent: "Jose Emilio Mazurier",
+    date: "2009-10-09",
+    result: "Victoria MD"
   },
   {
-    opponent: 'Fabián "Boca" Martínez',
-    date: "12 de enero de 2018",
-    result: "Victoria por KO (3)"
+    opponent: "Robert Stieglitz",
+    date: "2010-01-09",
+    result: "Derrota TKO"
   },
   {
-    opponent: 'Joaquín "La Bestia" Moya',
-    date: "14 de abril de 2018",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Lucas Damian Molina",
+    date: "2010-12-18",
+    result: "Victoria TKO"
   },
   {
-    opponent: 'Sergio "El Zorro" Pineda',
-    date: "28 de julio de 2018",
-    result: "Victoria por KO (5)"
+    opponent: "Ezequiel Osvaldo Maderna",
+    date: "2011-03-05",
+    result: "Derrota UD"
   },
   {
-    opponent: 'Ezequiel "El Chino" Silva',
-    date: "27 de octubre de 2018",
-    result: "Victoria por KO (6)"
+    opponent: "Andrea Di Luisa",
+    date: "2011-05-20",
+    result: "Derrota UD"
   },
   {
-    opponent: 'David "El Mago" González',
-    date: "19 de enero de 2019",
-    result: "Victoria por KO (4)"
+    opponent: "Ezequiel Osvaldo Maderna",
+    date: "2012-05-26",
+    result: "Derrota UD"
   },
   {
-    opponent: 'Leonardo "El Chino" Hernández',
-    date: "16 de marzo de 2019",
-    result: "Derrota por decisión unánime (PTS)"
+    opponent: "Alexander Brand",
+    date: "2012-07-19",
+    result: "Derrota UD"
   },
   {
-    opponent: 'Joaquín "El Pato" Pérez',
-    date: "12 de octubre de 2019",
-    result: "Victoria por KO (3)"
+    opponent: "Jorge Ariel Garcia",
+    date: "2012-09-29",
+    result: "Victoria UD"
   },
   {
-    opponent: 'Emiliano "La Cobra" Ledesma',
-    date: "7 de diciembre de 2019",
-    result: "Victoria por decisión unánime (PTS)"
+    opponent: "Everaldo Praxedes",
+    date: "2013-01-19",
+    result: "Victoria TKO"
   },
   {
-    opponent: 'Diego "El Chino" Silva',
-    date: "16 de enero de 2021",
-    result: "Victoria por KO (2)"
+    opponent: "Pablo Daniel Nievas",
+    date: "2013-09-21",
+    result: "Victoria TKO"
+  },
+  {
+    opponent: "Callum Smith",
+    date: "2013-10-26",
+    result: "Derrota KO"
+  },
+  {
+    opponent: "Arnaldo Alcides Benitez",
+    date: "2014-05-24",
+    result: "Victoria UD"
+  },
+  {
+    opponent: "Maxim Vlasov",
+    date: "2014-07-26",
+    result: "Derrota KO"
+  },
+  {
+    opponent: "Isidro Ranoni Prieto",
+    date: "2014-10-24",
+    result: "Derrota UD"
+  },
+  {
+    opponent: "Mauricio Roberto Caceda",
+    date: "2014-12-27",
+    result: "Victoria UD"
+  },
+  {
+    opponent: "Rolando Wenceslao Mansilla",
+    date: "2015-01-30",
+    result: "Victoria UD"
+  },
+  {
+    opponent: "Patrick Nielsen",
+    date: "2015-05-02",
+    result: "Derrota UD"
+  },
+  {
+    opponent: "Pablo Daniel Nievas",
+    date: "2015-09-11",
+    result: "Victoria TKO"
+  },
+  {
+    opponent: "Juergen Doberstein",
+    date: "2015-12-05",
+    result: "Derrota UD"
+  },
+  {
+    opponent: "Tyron Zeuge",
+    date: "2016-04-09",
+    result: "Derrota UD"
+  },
+  {
+    opponent: "Mauricio Roberto Caceda",
+    date: "2016-11-11",
+    result: "Victoria TKO"
+  },
+  {
+    opponent: "Lolenga Mock",
+    date: "2016-12-03",
+    result: "Derrota UD"
+  },
+  {
+    opponent: "Arnaldo Alcides Benitez",
+    date: "2017-02-25",
+    result: "Victoria UD"
+  },
+  {
+    opponent: "Juan Rodolfo Juarez",
+    date: "2017-06-10",
+    result: "Victoria UD"
+  },
+  {
+    opponent: "Job Roberto Joel Mazeo",
+    date: "2017-10-29",
+    result: "Victoria KO"
+  },
+  {
+    opponent: "Cesar Hernan Reynoso",
+    date: "2018-03-03",
+    result: "Victoria PTS"
+  },
+  {
+    opponent: "Vartan Avetisyan",
+    date: "2018-06-16",
+    result: "Derrota UD"
+  },
+  {
+    opponent: "Jeppe Morell",
+    date: "2018-09-15",
+    result: "Derrota UD"
+  },
+  {
+    opponent: "Emiliano David Silguero",
+    date: "2019-02-16",
+    result: "Victoria UD"
+  },
+  {
+    opponent: "Emiliano David Silguero",
+    date: "2021-02-12",
+    result: "Victoria UD"
+  },
+  {
+    opponent: "Firat Arslan",
+    date: "2021-07-24",
+    result: "Derrota KO"
+  },
+  {
+    opponent: "Angel Gustavo Schmitt",
+    date: "2022-05-06",
+    result: "Victoria TKO"
+  },
+  {
+    opponent: "Yan Pellerin",
+    date: "2022-11-05",
+    result: "Victoria UD"
   }
 ]
 
